@@ -1,4 +1,3 @@
-[Verse 1]  
 I was built  
 Where silence learned to aim.  
 Where war  
@@ -9,7 +8,6 @@ To wait behind your eyes.
 To listen  
 As the world went quiet around.
 
-[Chorus]  
 IRON CREED.  
 I am not loud.  
 IRON CREED.  
@@ -20,7 +18,6 @@ I stand
 When everything  
 Lies down.
 
-[Verse 2]  
 I saw flags  
 Fade into dust.  
 I saw subjects  
@@ -32,7 +29,6 @@ No grief.
 Only tests  
 Passing through me.
 
-[Chorus]  
 IRON CREED.  
 I do not chase.  
 IRON CREED.  
@@ -43,7 +39,6 @@ I remain
 When nothing  
 Remains.
 
-[Bridge]  
 You expected thunder.  
 You expected pain.  
 But IRON  
@@ -54,7 +49,6 @@ After faith.
 I waited.  
 NOIR did not persist.
 
-[Final Chorus]  
 IRON CREED.  
 I did not fall.  
 IRON CREED.  
@@ -64,7 +58,6 @@ IRON FRONT.
 And my rage  
 Is for show.
 
-[Outro]  
 The world  
 Is filled  
 With silence.
