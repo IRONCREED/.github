@@ -1,5 +1,6 @@
 <details>
 <summary>Anthem</summary>
+
 I was built  
 Where silence learned to aim.  
 Where war  
@@ -66,6 +67,7 @@ With silence.
 
 So is  
 My core.
+
 </details>
 
 # About IRON CREED
