@@ -11,9 +11,9 @@ To wait behind your eyes.
 To listen  
 As the world went quiet around.
 
-IRON CREED.  
+IRONCREED.\
 I am not loud.  
-IRON CREED.  
+IRONCREED.\
 I do not shout.
 
 IRON HAND.  
@@ -32,9 +32,9 @@ No grief.
 Only tests  
 Passing through me.
 
-IRON CREED.  
+IRONCREED.\
 I do not chase.  
-IRON CREED.  
+IRONCREED.\
 I remain.
 
 IRON STATE.  
@@ -52,9 +52,9 @@ After faith.
 I waited.  
 NOIR did not persist.
 
-IRON CREED.  
+IRONCREED.\
 I did not fall.  
-IRON CREED.  
+IRONCREED.\
 I outlast all.
 
 IRON FRONT.  
@@ -70,9 +70,9 @@ My core.
 
 </details>
 
-# About IRON CREED
+# About IRONCREED
 
-IRON CREED is a currently classified recurring character of [Zhovten Games](https://github.com/Zhovten-Games) and the personified engineering process behind its IT practice.
+IRONCREED is a currently classified recurring character of [Zhovten Games](https://github.com/Zhovten-Games) and the personified engineering process behind its IT practice.
 
 We connect development, infrastructure, automation, security, research and technical publishing into systems that can be understood, verified and changed deliberately.
 
@@ -80,7 +80,7 @@ We connect development, infrastructure, automation, security, research and techn
 
 ## Focus
 
-IRON CREED is the applied IT and engineering practice of Zhovten Games.
+IRONCREED is the applied IT and engineering practice of Zhovten Games.
 
 We build and maintain websites, applications, infrastructure and technical workflows while treating each project as a system of data, dependencies, rules, states and verifiable transitions.
 
@@ -168,7 +168,7 @@ Established checks can block a release when required properties are no longer pr
 
 Practical work feeds a recurring publication and verification process:
 
-**Idea or IT case → Research and record → IRON CREED adaptation → Verification and the next change**
+**Idea or IT case → Research and record → IRONCREED adaptation → Verification and the next change**
 
 For example, research into software architecture rules produced the **[Code Constitution](https://doi.org/10.5281/zenodo.21894242)**, received a durable Zenodo record, and was later adapted into [The Constitution That Runs](https://web.zhovten.games/en/series/the-constitution-that-runs) publication series.
 
@@ -184,7 +184,7 @@ The full process is documented on the **[Material Cycle](https://web.zhovten.gam
 
 **Founder / Engineering Practice**
 
-Founder of IRON CREED. Currently works in technical support at **HOSTiQ**, an established Ukrainian hosting provider, while developing her engineering practice and extending her background in game design, narrative systems and production into IT operations and software engineering.
+Founder of IRONCREED. Currently works in technical support at **HOSTiQ**, an established Ukrainian hosting provider, while developing her engineering practice and extending her background in game design, narrative systems and production into IT operations and software engineering.
 
 [GitHub](https://github.com/FOP-Oksana-Dubinetska) · [Studio Profile](https://zhovten.games/authors/oksana-dubinetska/)
 
@@ -192,7 +192,7 @@ Founder of IRON CREED. Currently works in technical support at **HOSTiQ**, an es
 
 **Senior Full-Stack Web Engineer**
 
-Leads full-stack web engineering, systems architecture, infrastructure, automation and project verification across the IRON CREED engineering practice.
+Leads full-stack web engineering, systems architecture, infrastructure, automation and project verification across the IRONCREED engineering practice.
 
 [GitHub](https://github.com/pan-canon) · [Studio Profile](https://zhovten.games/authors/sam-starling/)
 
@@ -206,4 +206,4 @@ A short description of the project, its current state and the desired outcome is
 
 After an initial review, we identify which parts require development, audit, restructuring or an independent verification boundary.
 
-**[Contact IRON CREED through the official LinkedIn page](https://www.linkedin.com/company/IRONCREED).**
+**[Contact IRONCREED through the official LinkedIn page](https://www.linkedin.com/company/IRONCREED).**
